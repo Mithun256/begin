@@ -4,3 +4,4 @@ Welcome to git world
 
 Ansible
 Satellite
+Foreman
